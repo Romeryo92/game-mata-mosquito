@@ -8,9 +8,7 @@ Game Mata Mosquito é uma aplicação web construída durante o curso de Desenvo
 A aplicação consiste em um game simples, onde o objetivo é eliminar os mosquistos que aparecem na tela, dentro de um determinado tempo, o jogador tem a opção de escolher entre três níveis de dificuldade.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 1](https://github.com/Romeryo92/game-mata-mosquito/blob/main/app/imagens/game.png)
 
 # Tecnologias utilizadas
 - HTML / CSS / JS / Bootstrap
